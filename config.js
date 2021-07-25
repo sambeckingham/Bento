@@ -11,7 +11,7 @@ const CONFIG = {
   // └─┘┴ ┴└─┘┴└─┘└─┘
 
   // General
-  name: 'John',
+  name: 'Sambo',
   imageBackground: false,
   openInNewTab: true,
 
@@ -22,11 +22,11 @@ const CONFIG = {
   greetingNight: 'Go to Sleep!',
 
   // Weather
-  weatherKey: 'InsertYourAPIKeyHere123456',
+  weatherKey: 'WEATHERAPIKEY',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C',
-  weatherLatitude: '37.774929',
-  weatherLongitude: '-122.419418',
+  weatherLatitude: 'LATSECRET',
+  weatherLongitude: 'LONGSECRET',
   
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
